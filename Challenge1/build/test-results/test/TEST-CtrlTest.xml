@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CtrlTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-10T19:44:18" hostname="shine-VirtualBox" time="0.01">
+  <properties/>
+  <testcase name="challengeTest" classname="CtrlTest" time="0.01"/>
+  <system-out><![CDATA[Your final score was 1300
+Your final score was 11600
+Your final score was 1300
+Your final score was 11600
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
